@@ -1,5 +1,6 @@
 BLOCK_SITE:
 - https://clashgithub.com/
+- https://www.bio-w.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
