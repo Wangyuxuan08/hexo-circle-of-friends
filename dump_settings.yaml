@@ -1,5 +1,5 @@
 BLOCK_SITE:
-- https://clashgithub.com/
+- https://clashgithub.com/*
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
